@@ -1,0 +1,43 @@
+User Agreement (hereinafter referred to as the "Agreement") for this application (hereinafter referred to as the "Application")
+
+Welcome to the Application! This Agreement governs the use of the Application and is a legally binding document. Please read it carefully before using the Application.
+
+Acceptance of Terms
+By using the Application, you agree to the terms of this Agreement and our Privacy Policy. If you do not agree to these terms, please stop using the Application.
+
+Authorization and Account Creation
+To use the Application, you need to log in via one of the offered methods. You are responsible for the security of your login credentials and agree not to share them with third parties. If you lose access to your account, you must notify us immediately.
+
+Use of the Application
+You agree to use the Application in compliance with the applicable laws of the Russian Federation, international standards, and norms, including but not limited to the following:
+
+Prohibited actions:
+-Posting offensive, provocative, obscene, or illegal materials.
+-Using the Application for fraud or other unlawful activities.
+-Advertising in the Application in any form: goods, services, communities, etc.
+-Interfering with the Application's operation or attempting to bypass its security mechanisms.
+-Infringing on the rights and freedoms of other Users.
+-Attempting to access the Application using an account that does not belong to you.
+
+User Content
+You retain the rights to the content you upload to the Application. However, by providing content, you grant us a non-exclusive, perpetual, royalty-free right to use, store, distribute, and process it for the purposes of the Application's operation and to improve its functionality.
+
+Liability
+We are not liable for any damages related to the use of the Application, including but not limited to data loss, equipment damage, or other issues resulting from the use of the Application. The Application is provided "as is," and we make no guarantees regarding its operation, availability, or functionality.
+
+Changes to the Agreement
+We reserve the right to modify the terms of this Agreement at any time. In the event of significant changes, we will notify you via the Application or through the official app store (Google Play or App Store). Continued use of the Application after the changes take effect will be considered acceptance of the updated terms. We are not liable to the User for changing the terms of this Agreement without their permission and/or consent. The User agrees to regularly check the provisions of this Agreement for potential changes or additions.
+
+Violation of Terms
+If you violate the terms of this Agreement, we reserve the right to suspend or terminate your access to the Application, as well as take other actions provided by law. We reserve the right to block access to the Application without prior notice if necessary for security or to prevent violations.
+
+Access to the Application
+We do not guarantee the continuous or uninterrupted operation of the Application. Access may be restricted for technical reasons or other circumstances beyond our control. We reserve the right to terminate access to the Application at any time without explanation.
+
+Contact Information
+If you have questions about this Agreement or other legal aspects of the Application's operation, you can contact us via email: a9633238@gmail.com.
+
+Final Provisions
+Availability of the Agreement for review: Users can review the terms of the Agreement at the following link: https://raw.githubusercontent.com/AlexeyJarlax/Privacy-Policy/main/UA(en)2.0.txt and the original is in Russian: https://raw.githubusercontent.com/AlexeyJarlax/Privacy-Policy/main/UA2.0.txt
+This Agreement may be translated into foreign languages for Users accessing the Mobile Application outside the Russian Federation. In case of discrepancies between the original text (Russian language) and its translation, the original language shall prevail.
+This version of the Agreement is effective as of October 07, 2024.
