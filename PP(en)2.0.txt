@@ -1,95 +1,88 @@
-Privacy Policy for this Application (hereinafter referred to as the "Mobile Application")
+Privacy Policy for this Application (hereinafter referred to as the Mobile Application)
 
-1. DEFINITION OF TERMS
-"Law" primarily refers to the Federal Law of the Russian Federation "On Personal Data" with all amendments and additions, as well as other legislative acts of the Russian Federation. Secondly, it refers to International legal standards.
-"Controller" means the person responsible for processing and protecting the Personal Data of Users located within the EU, in accordance with the General Data Protection Regulation (GDPR) dated April 27, 2016 (hereinafter referred to as "GDPR").
-"Mobile Application" refers to software (with all existing additions and improvements) designed to run on smartphones, tablets, watches, and other mobile devices and developed for a specific platform (iOS, Android, Windows Phone, etc.). For the purposes of this Policy, the Mobile Application refers to the following software: Mobile Application for Android.
-"Personal Data" means a set of personal and/or non-personalized information about the User, provided by the User to the Rights Holder and/or automatically collected by the Rights Holder and/or third parties.
-"Policy" refers to this Mobile Application Privacy Policy (with all existing additions and amendments).
-"User" means a legal or natural person who has downloaded the Mobile Application to a smartphone, tablet, watch, or any other mobile device and/or activated such Mobile Application on one of these devices.
-"User Agreement" means an agreement between the Rights Holder and the User regarding the procedure, rules, and specifics of using the Mobile Application. The User agrees to such an agreement and does not have the right to make and/or demand any changes or additions to it.
-"Rights Holder" means the following person, who holds the exclusive rights to the Mobile Application: Alexey Pavlov. https://github.com/AlexeyJarlax, https://play.google.com/store/apps/dev?id=8406991842366944145.
-"Processor" means a person who, under the GDPR, on behalf of the Controller, stores and/or processes Personal Data received from Users: Google Firebase.
-"Cookies" refers to small files sent by a mobile application or website and placed on the User's smartphone, tablet, watch, or other mobile devices to improve the performance of such applications or websites and the quality of the content they contain.
+1.	DEFINITIONS 
+"Law" primarily refers to the Federal Law of the Russian Federation "On Personal Data" with all its amendments, as well as other legislative acts of the Russian Federation. Secondly, it refers to international legal standards. "Controller" refers to the person responsible for the processing and protection of Personal Data of Users located in the EU, as understood by the General Data Protection Regulation (GDPR) of April 27, 2016. "Mobile Application" refers to the software (with all existing updates and improvements) designed for smartphones, tablets, watches, and other mobile devices, developed for specific platforms (iOS, Android, Windows Phone, etc.). For the purposes of this Policy, the Mobile Application refers to the following software: Mobile Application for Android. "Personal Data" refers to the set of personal data and/or non-personal information about the User, provided by the User to the Owner and/or automatically collected by the Owner and/or third parties. "Policy" refers to this Privacy Policy of the Mobile Application (with all existing amendments). "User" refers to a legal or natural person who has downloaded the Mobile Application onto a smartphone, tablet, watch, or any other mobile device and/or has activated such Mobile Application on one of these devices. "User Agreement" refers to the agreement between the Owner and the User regarding the terms, rules, and specifics of using the Mobile Application. The User joins this agreement and has no right to make or demand changes or additions to it. "Owner" refers to the following individual, who holds exclusive ownership rights to the Mobile Application: Alexey Pavlov. https://github.com/AlexeyJarlax, https://play.google.com/store/apps/dev?id=8406991842366944145. "Processor" refers to the entity that, in the context of the GDPR, performs the storage and/or processing of Personal Data received from Users: Google Firebase. "Cookies" refers to small files sent by any mobile application or website and placed on the User's smartphone, tablet, watch, or other mobile device to improve the performance of such applications or websites and the quality of the content.
 
-2. RELATIONSHIPS COVERED BY THIS POLICY
+2.	RELATIONSHIPS COVERED BY THIS POLICY 
 General Provisions
-This Policy applies exclusively to Personal Data received from the User in connection with their use of the Mobile Application. The provisions of this Policy aim to:
-(1) define the types and categories of Personal Data received, the directions and purposes of Personal Data usage (processing), as well as the sources of such Personal Data; and
-(2) define the User's rights regarding the protection of the confidentiality of the Personal Data they transmit; and
-(3) define the persons responsible for processing and storing Personal Data, as well as third parties to whom such data is disclosed (in whole or in part).
-The rules of this Policy do not apply to the processing of Personal Data by third parties that are voluntarily provided by the User.
-By installing and/or activating the Mobile Application on a smartphone, tablet, watch, or other mobile device, the User agrees to the terms of this Policy and grants the Rights Holder the right to collect, process, retain, and store Personal Data in the manner and under the conditions provided for in this Policy.
-If the User disagrees with the terms of the Policy and/or certain terms are unclear, the User must immediately cease using the Mobile Application.
+This Policy applies exclusively to Personal Data received from the User in connection with their use of the Mobile Application. The provisions of this Policy aim to: 
+(1) define the types and categories of Personal Data received, the purposes of its use (processing), and the sources of such Personal Data;
+(2) establish the User’s rights concerning the protection of the confidentiality of their Personal Data;
+(3) identify the entities responsible for processing and storing Personal Data, as well as third parties to whom such data is disclosed (fully or partially).
+The rules of this Policy do not apply in cases where third parties process Personal Data that the User voluntarily provides.
+By installing and/or activating the Mobile Application on a smartphone, tablet, watch, or other mobile device, the User agrees to the terms of this Policy and consents to the Owner collecting, processing, retaining, and storing Personal Data in the manner and under the conditions provided by this Policy.
+If the User disagrees with the terms of the Policy and/or does not understand certain terms, they must immediately stop using the Mobile Application.
+User Rights for Personal Data Protection
+By providing Personal Data, the User automatically receives the following rights: 
+(1) the right to use the application by agreeing to all terms;
+(2) the right to stop using the application;
+(3) the right to delete personal data using the appropriate function in the Mobile Application interface.
 
-User Rights Regarding Personal Data Protection
-By providing Personal Data, the User automatically receives the following rights:
-(1) The right to use the application in agreement with all points;
-(2) The right to refuse the use of the application;
-(3) The right to delete personal data using the relevant function in the Mobile Application interface.
+3.	LIST OF COLLECTED PERSONAL DATA
+•	For authorization via Google ID: email, first name, last name, nickname;
+•	For authorization via Yandex ID: email, first name, last name, gender, nickname;
+•	Personal Data: profile description (if provided by the User), drawing techniques (if provided by the User), description of places where the User wishes to engage in drawing, their locations (if provided by the User);
+•	Location Data: approximate location on the map (if provided by the User).
+Additionally, data collected by Google Analytics:
+•	number of users and sessions;
+•	session duration;
+•	operating systems;
+•	device models;
+•	location;
+•	first launches;
+•	application openings;
+•	application updates.
 
-3. LIST OF COLLECTED PERSONAL DATA
-• Identification data: nickname in the Mobile Application (if provided by the user), Google nickname, Google avatar, Telegram nickname (if provided by the user);
-• Contact data: Telegram nickname (if provided by the user);
-• Personal data: profile description (if provided by the user), drawing techniques (if provided by the user), description of places where the user wishes to draw, their locations (if provided by the user).
-• Location data: approximate location on the map (if provided by the user).
+4.	THIRD-PARTY ACCESS TO PERSONAL DATA - GOOGLE
+Using the application is associated with the Google Play platform. By installing the Mobile Application, the User agrees to the Google Play Privacy Policy or refuses to use the application.
 
-Including data collected by Google Analytics:
-• Number of users and sessions;
-• Session duration;
-• Operating systems;
-• Device models;
-• Location;
-• First launches;
-• App opens;
-• App updates.
+5.	ADVERTISING PLACEMENT 
+The Owner may display advertisements in the Mobile Application.
 
-4. THIRD-PARTY ACCESS TO PERSONAL DATA - Google
-The use of the application involves the operation of Google platforms. By installing the Mobile Application, the User agrees to Google's Privacy Policy, or they must cease using the application.
+6.	COMPLAINTS AND REQUESTS TO THE OWNER 
+The User has the right to delete their Personal Data stored on the device at any time by using the Settings > Delete Account menu.
+Each User has the right to object to the processing and/or storage of their Personal Data. This objection can be expressed as follows: The User may delete their Personal Data using the appropriate interface of the Mobile Application, and then delete the Mobile Application.
 
-5. AD PLACEMENT
-The Rights Holder may place advertisements in the Mobile Application.
+7.	PERIODS AND PROCEDURES FOR PERSONAL DATA STORAGE 
+Data is stored using secure Firebase tools. Storage procedure: if the User does not log in to the application for a year, the account and all data are deleted from the server. Personal Data may remain only on the User's device, from which they can delete it themselves using the Settings > Delete Account menu, followed by deleting the application.
 
-6. FILING COMPLAINTS AND REQUESTS TO THE RIGHTS HOLDER
-The User has the right to independently delete their Personal Data stored on the device at any time by using the Settings menu > Delete Account.
-Each User has the right to object to the processing and/or storage of their Personal Data. This objection can be expressed as follows: the User can independently delete their Personal Data using the corresponding interface of the Mobile Application. Afterward, they can uninstall the Mobile Application.
+8.	ACCESS FOR MINORS TO THE MOBILE APPLICATION 
+The Mobile Application and/or its content is intended for persons aged 18 and older.
 
-7. TERMS AND PROCEDURE FOR STORING PERSONAL DATA
-Data is stored using Google Firebase tools. Storage procedure: if the user has not logged into the application for a year, the account and all data will be deleted from the server. Personal Data may remain only on the user's device, from which they can delete it independently using the Settings menu > Delete Account.
+9.	PERSONAL DATA PROTECTION PROCEDURES 
+Protecting the confidentiality of Personal Data is a top priority for the Owner. The Owner adheres to all required international standards, rules, and recommendations for Personal Data protection.
 
-8. ACCESS FOR MINORS TO THE MOBILE APPLICATION
-The Mobile Application and/or its content is intended for individuals aged 18 and older.
-
-9. PROCEDURE FOR PROTECTING PERSONAL DATA
-Protecting the confidentiality of Personal Data is a top priority for the Rights Holder. The Rights Holder adheres to all required international standards, rules, and recommendations for Personal Data protection.
-
-10. USERS LOCATED IN THE EUROPEAN UNION
+10.	USERS LOCATED IN THE EUROPEAN UNION 
 General Provisions
-Since the Mobile Application is available to users from the European Union, the Rights Holder undertakes to additionally comply with GDPR provisions.
-The Controller in the context of this Policy is the Rights Holder.
+Since the Mobile Application is available to users from the European Union, the Owner undertakes to additionally comply with the provisions of the GDPR.
+The Controller, as understood in this Policy, is the Owner.
 The Controller is located outside the European Union.
-The same provisions apply to the user as to Users located in the Russian Federation.
+The same provisions apply to the User as to Users within the territory of the Russian Federation.
 
 11. DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
-The Rights Holder, Controller, or Developer does not guarantee or make any representations that there will be no interruptions or errors while using the Mobile Application, and you agree that the Rights Holder, Controller, or Developer may disable/remove/modify the Mobile Application for an indefinite period, suspend the operation of the Mobile Application at any time, or otherwise restrict or block access to the Application without prior notice.
-You expressly agree that you assume all risks associated with your use (or inability to use) of the Mobile Application, as well as any other activities related to the Mobile Application. All content provided to you within the Mobile Application is provided on an "as is" and "as available" basis without any express or implied warranties, including all implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement. Since some jurisdictions do not allow the exclusion of implied warranties, the above exclusion of implied warranties may not apply to you.
-You agree that, unless otherwise provided by applicable law, the Rights Holder, Controller, or Developer is not responsible for continuously providing you access to content, nor are they liable if content becomes unavailable for download, re-download, or other use.
-Under no circumstances shall the Rights Holder, Controller, or Developer, directors, officers, employees, affiliates, agents, contractors, or licensors be liable for any direct, indirect, incidental, punitive, actual, or consequential damages related to your use of the Mobile Application and/or content, or for any other claims in any way related to your use of the Mobile Application and/or content, including, but not limited to, errors or omissions in any content, losses or damages of any kind incurred as a result of the use of any content posted, transmitted, or otherwise made available through the Mobile Application, even if advised of their possibility. Since some countries, states, or jurisdictions do not allow the exclusion or limitation of liability for consequential or incidental damages, in such countries, states, or jurisdictions, the liability of the Rights Holder, Controller, or Developer is limited to the extent permitted by law.
-The Rights Holder, Controller, or Developer makes reasonable efforts to protect the information you provide in connection with the use of the Mobile Application, but you agree that you provide such information at your own risk, and hereby release the Rights Holder, Controller, or Developer from any liability to you for data loss and any other liability related to this information.
-The Rights Holder, Controller, or Developer does not warrant or guarantee that the service will be completely secure from data loss, damage, attacks, viruses, interference, hacking, or other security breaches, and hereby you release the Rights Holder, Controller, or Developer from any liability related to such breaches. You are responsible for creating backups of the information stored in your system, including all content obtained through the Mobile Application.
-The Rights Holder, Controller, or Developer is not responsible for any data transmission fees that may be charged to you while using the Mobile Application.
+The Owner, Controller, or Developer does not guarantee and makes no representations that the use of the Mobile Application will be free of interruptions or errors, and you agree that the Owner, Controller, or Developer may disable/remove/modify the Mobile Application for an indefinite period, cancel its operation at any time, or otherwise restrict or block access to the Application without prior notice.
+You expressly agree that you assume all risks related to your use (or inability to use) of the Mobile Application, as well as any other activities related to the Mobile Application. All content provided to you within the Mobile Application is provided on an "as is" and "as available" basis without any express or implied warranties, including all implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement of third-party rights. Since some jurisdictions do not allow the exclusion of implied warranties, the above exclusion of implied warranties may not apply to you.
+You agree that, unless otherwise required by applicable law, the Owner, Controller, or Developer is not responsible for continuously providing you access to the content, nor is responsible if the content becomes unavailable for download, re-download, or other use.
+Under no circumstances shall the Owner, Controller, or Developer, their executives, officers, employees, affiliates, agents, contractors, or licensors be liable for any direct, indirect, incidental, punitive, actual, or consequential damages related to your use of the Mobile Application and/or content, or any other claims related to your use of the Mobile Application and/or content, including, but not limited to, errors or omissions in any content, or any losses or damages of any kind incurred as a result of the use of any content posted, transmitted, or otherwise made available through the Mobile Application, even if warned of the possibility of such damages. As some countries, states, or jurisdictions do not allow the exclusion or limitation of liability for consequential or incidental damages, in such countries, states, or jurisdictions, the liability of the Owner, Controller, or Developer is limited to the extent permitted by law.
+The Owner, Controller, or Developer makes reasonable efforts to protect the information you provide in connection with your use of the Mobile Application, but you agree that you provide such information at your own risk and hereby release the Owner, Controller, or Developer from any liability to you for loss of data or any other liability related to this information.
+The Owner, Controller, or Developer does not guarantee that the service will be fully protected from data loss, corruption, attacks, viruses, interference, hacking, or other security breaches, and you hereby release the Owner, Controller, or Developer from any liability related to such breaches. You are responsible for backing up the information stored in your system, including all content obtained through the Mobile Application.
+The Owner, Controller, or Developer is not responsible for any data transmission charges that may be incurred by you while using the Mobile Application.
 
-12. WAIVER OF CLAIMS AND INDEMNITY WARRANTY
-In connection with your use of the Mobile Application, you hereby release (to the extent permitted by law) the Rights Holder, Controller, or Developer, its directors, officers, employees, affiliates, agents, contractors, and licensors from liability and claims for damages arising from any demands related to your violation of the terms of this agreement, your use of the Mobile Application, as well as actions taken by the Rights Holder, Controller, or Developer in the course of investigating a suspected violation of this agreement, or as a result of its conclusion or decision that a violation of this agreement has occurred. You agree not to sue the Rights Holder, Controller, or Developer, its directors, officers, employees, affiliates, agents, contractors, or licensors, and not to claim damages from them due to the decision of the Rights Holder, Controller, or Developer to remove or deny access to any information or content, to suspend or terminate your access to the Application, or to take any other actions in the course of investigating a suspected violation or based on the conclusion of the Rights Holder, Controller, or Developer that a violation of this agreement has occurred. This waiver of claims and indemnity warranty applies to all violations specified or implied by this agreement.
+12. WAIVER OF CLAIMS AND INDEMNITY
+By using the Mobile Application, you release (to the extent permitted by law) the Owner, Controller, or Developer, its executives, officers, employees, affiliates, agents, contractors, and licensors from liability and claims for damages related to any claims arising from your breach of this agreement, your use of the Mobile Application, as well as the actions of the Owner, Controller, or Developer in the course of investigating an alleged violation of this agreement or in concluding that a violation of this agreement has occurred. You agree not to sue the Owner, Controller, or Developer, its executives, officers, employees, affiliates, agents, contractors, or licensors and not to seek damages from them due to the Owner, Controller, or Developer’s decision to remove or refuse access to any information or content, to suspend or terminate your access to the Application, or to take other actions during the investigation of a suspected violation or as a result of the Owner, Controller, or Developer’s conclusion that a violation of this agreement has occurred. This waiver of claims and indemnity applies to all violations, whether specified or implied in this agreement.
 
 13. RISK OF DISCLOSURE
-Regardless of the measures taken by the Rights Holder to protect the confidentiality of personal data received, the User is hereby duly informed that any transmission of Personal Data over the Internet cannot be guaranteed as secure, and thus the User transmits such data at their own risk.
+Regardless of the security measures taken by the Owner to protect the confidentiality of the received personal data, the User is hereby duly informed that any transmission of Personal Data over the Internet cannot be guaranteed to be completely secure, and the User undertakes such transmission at their own risk.
 
 14. FINAL PROVISIONS
-Availability of the policy text for review: Users can review the terms of the User Agreement at the following link: https://raw.githubusercontent.com/AlexeyJarlax/Privacy-Policy/main/PP(en)2.0.txt and the original is in Russian: https://github.com/AlexeyJarlax/Privacy-Policy/edit/main/PP2.0.txt
-This Policy may be translated into foreign languages for Users accessing the Mobile Application outside the Russian Federation. In case of discrepancies between the original text (in Russian) and its translation, the original language shall prevail.
-This version of the Policy is effective from October 07, 2024.
-Changes and amendments to the policy: This Policy may be amended from time to time. The Rights Holder assumes no responsibility towards the User for changing the terms of this Policy without the User’s permission and/or consent. The User is responsible for regularly checking the provisions of this Policy for any possible changes or amendments.
+Availability of the policy text for review: The User may review the terms of the User Agreement via the following links: 
+Russian version: https://raw.githubusercontent.com/AlexeyJarlax/Privacy-Policy/main/PP2.0.txt
+English version: https://raw.githubusercontent.com/AlexeyJarlax/Privacy-Policy/main/PP(en)2.0.txt
+This Policy may be translated into a foreign language for Users who access the Mobile Application outside of the Russian Federation. In case of any discrepancies between the original text (in Russian) and its translation, the original language prevails.
+This version of the Policy is effective as of October 20, 2024.
+Changes and amendments to the policy: This Policy may be updated from time to time. The Owner bears no responsibility to the User for changes to the terms of this Policy without the User’s permission and/or consent. The User is responsible for regularly reviewing this Policy for possible changes or amendments.
 
-15. APPLICABLE LEGISLATION
-This Policy has been developed in accordance with the current legislation on the protection of personal data of the Russian Federation, specifically the provisions of Federal Law No. 152-FZ of July 27, 2006 "On Personal Data" (with all amendments and changes), Federal Law No. 242-FZ of July 21, 2014 "On Amendments to Certain Legislative Acts of the Russian Federation Regarding Clarification of the Procedure for Processing Personal Data in Information and Telecommunication Networks" (with all amendments and changes), as well as the provisions of the General Data Protection Regulation (GDPR) of April 27, 2016.
+15. APPLICABLE LAW
+This Policy has been developed in accordance with the current legislation on the protection of personal data of the Russian Federation, in particular, with the provisions of the Federal Law of July 27, 2006, No. 152-FZ "On Personal Data" (with all amendments), the Federal Law of July 21, 2014, No. 242-FZ "On Amendments to Certain Legislative Acts of the Russian Federation in Terms of Clarifying the Procedure for Processing Personal Data in Information and Telecommunications Networks" (with all amendments), as well as the provisions of the General Data Protection Regulation (GDPR) of April 27, 2016.
+ 
+
