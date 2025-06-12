@@ -87,7 +87,7 @@ You agree not to bring any lawsuits against the Rights Holder, Controller, or De
 
 CONCLUDING PROVISIONS
 Availability of the Policy text for review
-The User may review the terms of the User Agreement at the following link: https://raw.githubusercontent.com/AlexeyJarlax/Privacy-Policy/refs/heads/main/PP1.0.txt
+The User may review the terms of the User Agreement at the following link: https://raw.githubusercontent.com/AlexeyJarlax/Privacy-Policy/refs/heads/main/PP(en)1.0.txt
 This Policy may be translated into a foreign language for those Users accessing the Mobile Application outside the Russian Federation. In the event of any discrepancy between the original (Russian) text and its translation, the original language shall prevail.
 This version of the Policy is effective as of June 12, 2025.
 Amendment and supplementation of the Policy.
