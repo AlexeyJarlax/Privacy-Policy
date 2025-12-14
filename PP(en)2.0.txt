@@ -19,22 +19,26 @@ By providing Personal Data, the User automatically receives the following rights
 (3) the right to delete personal data using the appropriate function in the Mobile Application interface.
 
 3.	LIST OF COLLECTED PERSONAL DATA
-•	For authorization via Google ID: email, first name, last name, nickname;
-•	For authorization via Yandex ID: email, first name, last name, gender, nickname;
-•	Personal Data: profile description (if provided by the User), drawing techniques (if provided by the User), description of places where the User wishes to engage in drawing, their locations (if provided by the User);
-•	Location Data: approximate location on the map (if provided by the User).
-Additionally, data collected by Google Analytics:
-•	number of users and sessions;
-•	session duration;
-•	operating systems;
-•	device models;
-•	location;
-•	first launches;
-•	application openings;
-•	application updates.
+• when authenticating via a phone call: phone number;
+• when authenticating via Google ID: email address, first name, last name, nickname;
+• when authenticating via Yandex ID: email address, first name, last name, gender, nickname;
+• Personal data: profile description (if provided by the user), drawing techniques (if provided by the user), description of places where the user wishes to draw and their location (if provided by the user);
+• Location data: approximate location on the map (if provided by the user);
+• Avatar and other images that the user may upload at their discretion (if provided by the user);
+• Link to the user’s Telegram profile;
+Including data collected by Google Analytics:
+• number of users and sessions;
+• session duration;
+• operating systems;
+• device models;
+• location;
+• first launches;
+• app opens;
+• app updates.
 
-4.	THIRD-PARTY ACCESS TO PERSONAL DATA - GOOGLE
-Using the application is associated with the Google Play platform. By installing the Mobile Application, the User agrees to the Google Play Privacy Policy or refuses to use the application.
+4.	THIRD-PARTY ACCESS TO PERSONAL DATA - GOOGLE, TELEGRAM
+• Use of the application is associated with the operation of the Google Play platform. By installing the Mobile Application, the User agrees to Google Play’s Privacy Policy or declines to use the application.
+• Telegram chats are used for participant communication and for discussing events, including their time and place. Data processing in Telegram is governed by Telegram’s privacy policy.
 
 5.	ADVERTISING PLACEMENT 
 The Owner may display advertisements in the Mobile Application.
