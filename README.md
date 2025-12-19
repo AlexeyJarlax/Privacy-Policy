@@ -8,3 +8,4 @@ UA - User agreement
 
 DEL - Instructions for deleting an account
 
+CSS - Child Safety Standards / Стандарты безопасности детей
