@@ -1,0 +1,21 @@
+Pleinair — Deleting Data. Last updated: 19 Dec 2025
+
+How can I delete my account and the data associated with it in our app?
+
+If you would like to delete your account and all data associated with it, you can do so yourself through the app interface by following these steps:
+
+Open the app and sign in to your account (the app collects and stores data only for registered users; data from users who have not registered is not processed).
+
+Go to Settings.
+
+Find and select Delete account.
+
+Confirm the deletion by following the on-screen instructions.
+
+After confirmation, your account and all associated data will be deleted from this app and our database within 48 hours.
+
+What data will be deleted? After your account is deleted, all data related to your activity in the app will be removed (profile, name, in-app avatar, technique descriptions, profile description, geo-tag, settings, statistics).
+
+Re-registration in the app using your current phone number will be blocked for 90 days.
+
+If you have any questions, you can contact support at a9633238@gmail.com
